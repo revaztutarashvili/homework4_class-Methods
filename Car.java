@@ -65,16 +65,5 @@ public class Car {
     }
 
 
-//
-//აქ მაქვს მეთოდი N1
-//    public String whatModelAmI() {
-//
-//        return make + " "+model;
-//    }
-// აქ მაქვს მეთოდი N2
-//    public  String whatDataSpeedIHave() {
-//
-//        return "Release date:"+releaseDate + " " + "Max speed:"+maxSpeed + "  "+ "Engine:"+engine+" "+ "Type:"+ type;
-//    }
 
 }
